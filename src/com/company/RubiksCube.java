@@ -15,11 +15,11 @@ public class RubiksCube extends Cube {
 
     // Parameters
 
-    int price;
-    int weight;
-    int numberOfSquaresOnOneSide;
-    int paintingPricePerSquare;
-    String colors;
+    private int price;
+    private int weight;
+    private int numberOfSquaresOnOneSide;
+    private int paintingPricePerSquare;
+    private String colors;
 
 
     // Constructor WITH SUPER parameters

@@ -13,13 +13,13 @@ public class ComputerMonitor extends Rectangle{
 
     // Parameters
 
-    String color;
-    String brand;
-    int refreshRate;
-    int resolutionLength;
-    int resolutionWidth;
-    int aspectRatioLength;
-    int aspectRatioWidth;
+    private String color;
+    private String brand;
+    private int refreshRate;
+    private int resolutionLength;
+    private int resolutionWidth;
+    private int aspectRatioLength;
+    private int aspectRatioWidth;
 
     // Constructor WITH SUPER parameters
 
